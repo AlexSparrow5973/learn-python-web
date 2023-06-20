@@ -18,13 +18,4 @@
 - [ ] 10. Раздел FAQ;
 - [ ] 11. Раздел "Техподдержка".
 
-![Текст описания]()
-
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
-
-{username} — ваш ник на ГитХабе;
-{repository} — репозиторий где хранятся картинки;
-{branch} — ветка репозитория;
-{path} — путь к месту нахождения картинки.
-
-
+![learn-python-web-preview](https://github.com/AlexSparrow5973/learn-python-web/raw/master/app/static/learn-python-web-preview.png)
